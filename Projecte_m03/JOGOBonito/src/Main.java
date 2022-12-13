@@ -50,7 +50,7 @@ public class Main {
                     //IMPRIMIR FILA PER FILA
                     Thread.sleep(200);
                 }
-
+                System.out.println("CANVI");
 
 
 
